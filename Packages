@@ -9,7 +9,7 @@ Size: 1473424
 MD5sum: 175c38034e064898ce35d40c6c4fdd23
 SHA1: 8fa4928290ff288260fcd85a4bc431e634d06fde
 SHA256: a182b3a0ae449026c35254e9eec049c5f8230c7f63acdbaa018c3cd7e1fd718b
-Section: 分屏插件
+Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: Axs
 Name: Svp分屏独立版(rootless)
@@ -27,7 +27,7 @@ Size: 727356
 MD5sum: 5e09522fae8f14141b56d99d5fc17dbf
 SHA1: d4d6866117fc114715e70920b0271d9a8b9a37a8
 SHA256: 503648e1aefbe7d223079587031e13858b31d35f890b5018a21bd209a197e4ee
-Section: Control Center UI
+Section: Tweaks
 Description: Plampy UI Pro - custumizing CC on Jailbroken devices for iOS 15 & 16.
 Author: Phuc Do
 Name: Plampy UI Pro
