@@ -1,0 +1,71 @@
+Package: com.Axs.split-view-pro
+Version: 1.3.7-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./com.Axs.split-view-pro_1.3.7-1_iphoneos-arm64.deb
+Size: 1473424
+MD5sum: 175c38034e064898ce35d40c6c4fdd23
+SHA1: 8fa4928290ff288260fcd85a4bc431e634d06fde
+SHA256: a182b3a0ae449026c35254e9eec049c5f8230c7f63acdbaa018c3cd7e1fd718b
+Section: 分屏插件
+Description: 分屏，不必太复杂，一切从简即可。
+Author: Axs
+Name: Svp分屏独立版(rootless)
+Sileodepiction: https://axs6.github.io/repo/sileodepiction/svp/js.json
+Ts: sp-sss
+
+Package: com.phucdo.plampyuipro
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Phuc Do
+Installed-Size: 2064
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./PlampyUIPro-Rootless-Paid-PhucDo.deb
+Size: 727356
+MD5sum: 5e09522fae8f14141b56d99d5fc17dbf
+SHA1: d4d6866117fc114715e70920b0271d9a8b9a37a8
+SHA256: 503648e1aefbe7d223079587031e13858b31d35f890b5018a21bd209a197e4ee
+Section: Control Center UI
+Description: Plampy UI Pro - custumizing CC on Jailbroken devices for iOS 15 & 16.
+Author: Phuc Do
+Name: Plampy UI Pro
+
+Package: visibleisland
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: ethxnn88 <ethxnn88@gmail.com>
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./visibleisland_2.0_iphoneos-arm64.deb
+Size: 28588
+MD5sum: a82bdf72a10e0d214b3a6d2d7beea784
+SHA1: 2a52ee4be950d8aa3570ed29fc5fb035e41c258e
+SHA256: 8c0eb2e92222de4ef990b3934d53c2f3385930ae8a783a23682a75fa3246cf1c
+Section: Tweaks
+Homepage: https://shuga.co/
+Description: 在旧设备上启用、修复和自定义灵动岛位置。（由M哥汉化）
+Author: ethxnn88 <ethxnn88@gmail.com>
+Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
+Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
+Moderndepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Name: VisibleIsland 灵动岛
+Sileodepiction: https://ethxnn88.github.io/repo/depiction/native/com.ethxnn88.visibleisland.json
+Tags: compatible_min::ios16.0, compatible_max::ios16.6.1
+
+Package: wiki.qaq.colorfulwallpaperx
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 3488
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./动态光影壁纸ColorfulWallpaperX_v2.1.deb
+Size: 958930
+MD5sum: e1903e5c7c79330d8afe073f677bb4fb
+SHA1: 564716d147c0a48c62badd33436b9279dc5ea1dd
+SHA256: 02b764c2b594cbb51771e8bf5bb8f68b0b7dfb2564fab00112ce602afe95a771
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Lessica <82flex@gmail.com>
+Name: ColorfulWallpaperX
+
