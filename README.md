@@ -1,4 +1,4 @@
-#### 🇨🇳Cxs源 https://xiangfeidexiaohuo.github.io/
+#### 🇨🇳Cxs源 https://cxs1125.github.io/
 
 #### 支持 rootless。
 
