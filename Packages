@@ -34,7 +34,7 @@ SHA256: a182b3a0ae449026c35254e9eec049c5f8230c7f63acdbaa018c3cd7e1fd718b
 Section: Tweaks
 Description: 分屏，不必太复杂，一切从简即可。
 Author: Axs
-Name: Svp分屏独立版(rootless)
+Name: Svp分屏独立版
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/svp/js.json
 Ts: sp-sss
 
@@ -45,6 +45,7 @@ Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdata, netskao.appdata-rootless
 Filename: ./AppData(rootless).deb
+Section: Tweaks
 Size: 822848
 MD5sum: 26b008393d3e574db408ed00576c4454
 SHA1: 65ce516c72783351eb95f665e7d985700de45ac5
@@ -52,7 +53,7 @@ SHA256: 90006809eaf1e0b7323440e8e3a08baf7e305c203def8ba7605c317ae7809942
 Section: Tweak
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
 Author: Fouad Raheb
-Name: AppData(rootless)
+Name: AppData
 
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
@@ -68,7 +69,7 @@ SHA256: 411d41d3a62037cd387388fe1fb0dad21efc35f9b1ca880846addefd8f2838de
 Section: Tweaks
 Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码、抬起唤醒等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
 Author: 妖刀
-Name: CCLess++(rootless)
+Name: CCLess++
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
 Package: com.phucdo.plampyuipro
@@ -99,7 +100,7 @@ MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
 SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
 SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
 Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。
+Description: 分屏，不必太复杂，一切从简即可。（免费版上架备份）
 Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
@@ -116,7 +117,7 @@ SHA1: 2a52ee4be950d8aa3570ed29fc5fb035e41c258e
 SHA256: 8c0eb2e92222de4ef990b3934d53c2f3385930ae8a783a23682a75fa3246cf1c
 Section: Tweaks
 Homepage: https://shuga.co/
-Description: 在旧设备上启用、修复和自定义灵动岛位置。（由M哥汉化）
+Description: 在旧设备上启用、修复和自定义灵动岛位置。（已汉化）
 Author: ethxnn88 <ethxnn88@gmail.com>
 Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
 Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
