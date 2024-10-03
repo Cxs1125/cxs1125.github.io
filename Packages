@@ -1,25 +1,3 @@
-Package: cn.zqbb.fix120hz
-Version: 1.2.0-53
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 3004
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
-Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
-Filename: ./cn.zqbb.fix120hz_1.2.0-53_iphoneos-arm64.deb
-Size: 664812
-MD5sum: a5e08738a4a202f1b61c4a578150fa53
-SHA1: ffb296a4040515c22a704d1ece4b66538357fc2f
-SHA256: 490a50cee1633fd8966e5d78fdd1668dc143a69a644b0ed1554ab71524ec51ee
-Section: Tweaks
-Description:
- - Unlock dynamic refresh rate from 80hz to 120hz
- - .
- - 解锁动态刷新率80hz到120hz.
-Author: zqbb
-Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
-Name: Hello 120Hz
-Sileodepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
-
 Package: com.Axs.split-view-pro
 Version: 1.3.7-1
 Architecture: iphoneos-arm64
@@ -31,12 +9,32 @@ Size: 1473424
 MD5sum: 175c38034e064898ce35d40c6c4fdd23
 SHA1: 8fa4928290ff288260fcd85a4bc431e634d06fde
 SHA256: a182b3a0ae449026c35254e9eec049c5f8230c7f63acdbaa018c3cd7e1fd718b
-Section: Tweaks
+Section: 分屏插件
 Description: 分屏，不必太复杂，一切从简即可。
 Author: Axs
-Name: Svp分屏独立版
+Name: Svp分屏独立版(rootless)
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/svp/js.json
 Ts: sp-sss
+
+Package: com.amywhile.aemulotrial
+Version: 1.2.5
+Architecture: iphoneos-arm64
+Maintainer: Amy While <support@anamy.gay>
+Installed-Size: 1980
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: com.amywhile.aemulo
+Filename: ./Limneos插件破解-Rootless.1.1-3.deb
+Size: 40472
+MD5sum: d5fd1300c586fdb7ed762c5ae321de6c
+SHA1: defe829b1474fbf40d9d616eae8fde9e76a30780
+SHA256: 828fb63232fa5e7200e44f69574c55aba923d17804cd95aa47cd8e0982330cf0
+Section: Tweaks
+Description: NFC Frickery
+Author: Amy While <support@anamy.gay>
+Header: https://elihwyma.github.io/Aemulo/assets/Depiction-Header.png
+Icon: https://elihwyma.github.io/Aemulo/assets/Icon.png
+Name: Aemulo (Trial)
+Native-Depiction: https://elihwyma.github.io/Aemulo/NativeDepiction.json
 
 Package: com.dao.appdata
 Version: 1.4.2
@@ -45,15 +43,14 @@ Maintainer: Nets
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.netskao.appdata, netskao.appdata-rootless
 Filename: ./AppData(rootless).deb
-Section: Tweaks
 Size: 822848
 MD5sum: 26b008393d3e574db408ed00576c4454
 SHA1: 65ce516c72783351eb95f665e7d985700de45ac5
 SHA256: 90006809eaf1e0b7323440e8e3a08baf7e305c203def8ba7605c317ae7809942
-Section: Tweak
+Section: 嗨-工具
 Description: 桌面图标上滑或下滑或3D长按菜单选择即可唤出图标应用数据的快捷工具。Netskao新更的版本，上架备份。
 Author: Fouad Raheb
-Name: AppData
+Name: AppData(rootless)
 
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
@@ -66,11 +63,27 @@ Size: 508376
 MD5sum: 41b876f1c036a884e7dda3a3c997ce72
 SHA1: 95c488a01068477f6ffcf14d1567b3337eee8fb3
 SHA256: 411d41d3a62037cd387388fe1fb0dad21efc35f9b1ca880846addefd8f2838de
-Section: Tweaks
+Section: 嗨-工具
 Description: 集合的控制中心模块：定位、注销、设置、VPN、自动亮度、截屏、锁屏、一键清角标、微信扫码、支付宝扫码、双卡切换、蜂窝切换、迷你音量-亮度、启动QX/推特/油管/Filza/Sileo/Tg等、静音、实时CPU使用率、系统运行时间、Snapper2、微信/支付宝付款码、抬起唤醒等。感谢Skypain、Netskao、SOPPPra、MTAC、P2KDev、jailbreak365 +、AnubisTweaks、真皮等各位大佬！！！
 Author: 妖刀
-Name: CCLess++
+Name: CCLess++(rootless)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
+
+Package: com.netskao.awemefullscreen
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 108
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./AwemeFullScreen.1.1-8.deb
+Size: 57004
+MD5sum: c57c504a3eabb060b7f2707a728a81fa
+SHA1: 79c8cb3fa99b28b8b2386fe043206aa25aba9883
+SHA256: 2fee0586ba809079407a0d3922b3181229f0d12b09f82664dd4fa78ab5adc0ba
+Section: Netskao-Tweaks
+Description: Aweme Full Screen. Tested on version 29.8.0 only, Failures due to subsequent version updates will not be maintained.
+Author: Netskao
+Name: AwemeFullScreen
 
 Package: com.phucdo.plampyuipro
 Version: 1.0
@@ -83,7 +96,7 @@ Size: 727356
 MD5sum: 5e09522fae8f14141b56d99d5fc17dbf
 SHA1: d4d6866117fc114715e70920b0271d9a8b9a37a8
 SHA256: 503648e1aefbe7d223079587031e13858b31d35f890b5018a21bd209a197e4ee
-Section: Tweaks
+Section: Control Center UI
 Description: Plampy UI Pro - custumizing CC on Jailbroken devices for iOS 15 & 16.
 Author: Phuc Do
 Name: Plampy UI Pro
@@ -100,10 +113,43 @@ MD5sum: 0633f6b017afdbbc2513ea5b24cf19de
 SHA1: 61c37fdc9ef8cc51d962d0cb329e5d99ecd5798c
 SHA256: 9c6622889ef922038863816b9a947caf5738a520f87f8e12245816faad58e44f
 Section: Tweaks
-Description: 分屏，不必太复杂，一切从简即可。（免费版上架备份）
+Description: 分屏，不必太复杂，一切从简即可。
 Author: sunshinesong
 Name: split-view-pro
 Ts: sp-sss
+
+Package: com.sunshinesong.split-view-pro-helper
+Version: 999.1
+Architecture: iphoneos-arm64
+Maintainer: sunshinesong
+Installed-Size: 13792
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./split-view-prohelper.999.1.deb
+Size: 1360
+MD5sum: 8e9d2402339b8055f3720c7878118068
+SHA1: 3227d47a80d6240208c185ca180c8a58b95aa3df
+SHA256: 7adf12879f90c9a3a6669b8e1252aab6630b5325dd63fa457112e9b87abba38b
+Section: Tweaks
+Description: 分屏，不必太复杂，一切从简即可。
+Author: sunshinesong
+Name: split-view-pro helper
+Ts: sp-sss
+
+Package: com.x1a0.ena
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: x1a0
+Installed-Size: 69568
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./com.x1a0.ena_1.0.2_iphoneos-arm64(1).deb
+Size: 59952800
+MD5sum: eea10e75441bd4318553bc8ef58fc6b0
+SHA1: 71217779f6bf81166ac3b4bd0f3e13d5925bfdf9
+SHA256: f4ee8a5cbdf6ac1bd4c6c28ed1f0db3a7d3a850b2dec98e2e6c12cb8860a1e14
+Section: Tweaks
+Description: Extract Nearly Anything
+Author: x1a0
+Name: ENA - Extract Nearly Anything
 
 Package: visibleisland
 Version: 2.0
@@ -117,7 +163,7 @@ SHA1: 2a52ee4be950d8aa3570ed29fc5fb035e41c258e
 SHA256: 8c0eb2e92222de4ef990b3934d53c2f3385930ae8a783a23682a75fa3246cf1c
 Section: Tweaks
 Homepage: https://shuga.co/
-Description: 在旧设备上启用、修复和自定义灵动岛位置。（已汉化）
+Description: 在旧设备上启用、修复和自定义灵动岛位置。（由M哥汉化）
 Author: ethxnn88 <ethxnn88@gmail.com>
 Depiction: https://ethxnn88.github.io/repo/depiction/web/com.ethxnn88.visibleisland.html
 Icon: https://ethxnn88.github.io/repo/assets/com.ethxnn88.visibleisland/icon.png
