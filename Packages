@@ -135,22 +135,6 @@ Author: sunshinesong
 Name: split-view-pro helper
 Ts: sp-sss
 
-Package: com.x1a0.ena
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: x1a0
-Installed-Size: 69568
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./com.x1a0.ena_1.0.2_iphoneos-arm64(1).deb
-Size: 59952800
-MD5sum: eea10e75441bd4318553bc8ef58fc6b0
-SHA1: 71217779f6bf81166ac3b4bd0f3e13d5925bfdf9
-SHA256: f4ee8a5cbdf6ac1bd4c6c28ed1f0db3a7d3a850b2dec98e2e6c12cb8860a1e14
-Section: Tweaks
-Description: Extract Nearly Anything
-Author: x1a0
-Name: ENA - Extract Nearly Anything
-
 Package: visibleisland
 Version: 2.0
 Architecture: iphoneos-arm64
